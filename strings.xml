@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Internet app</string>
+    <string name="Network_Type">Network Type</string>
+    <string name="Network_Provider">Network Provider</string>
+    <string name="Network_Signal">Network Signal</string>
+
+</resources>
